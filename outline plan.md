@@ -5,9 +5,9 @@ This session aims to set out some procedures to make publication of scientific w
 Publication is required for everyone at all stages of research, there are several different types of publication which very depending on audience and importance, but they all share essentially the same stages:
 * Collection of data
 * Planning of Manuscript
-*	Initial draft
-*	Collaborative improvements/editing
-*	Publication
+* Initial draft
+* Collaborative improvements/editing
+* Publication
 
 Aside from the initial collection of data, the collaborative improvements and editing is often the most time consuming and complex stage. This tutorial aims to present some strategies to streamline the process.
 
